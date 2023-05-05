@@ -30,3 +30,55 @@ Implementing the video container was a new coding style I hadn't utilised before
 Finally, the scroll element was also a new coding practice. Initially, I asked to "make a carousel scroll in HTML and CSS with images and text hovering over images". After implementing this code and realising I asked for the wrong design, I asked: "make a horizontal scroll in HTML and CSS with images and text hovering over images". This also did not generate the design I was desiring, then asking "make a horizontal scroll with 8 cards with background images", this statement successfully generated the horizontal scroll. After placing the photos, this container is successfully responsive and visually appealing.
 
 Overall, the experience of creating a website utilising ChatGPT was very enjoyable. It increased my knowledge of coding elements and styling selectors and increased the speed of generating the site with the consideration of responsive code for desktop, tablet and mobile. From this process, it is clear the specificity of wording needed to ensure desired design and content code is created, with running into errors including cantering content or content being placed in columns I unintended to. Thus, being very clear with wording and terminology was essential to ensure the correct code was generated.
+
+REFERENCES
+
+HERO
+
+Cottonbro Studio (2020). [Image]. Pexels. https://www.pexels.com/photo/assorted-clothing-hanging-in-the-clothing-racks-6069079/
+
+ABOUT
+
+Cottonbro Studio (2020). [Image]. Pexels. https://www.pexels.com/photo/a-woman-shopping-for-clothes-in-a-thrift-store-6068969/
+
+VIEW MENS
+
+Pinterest (n.d.) [Image] Pinterest.  https://i.pinimg.com/564x/0e/6d/47/0e6d47afd94c4cfa9c702a173475c40d.jpg  
+
+VIEW WOMENS
+
+Sus, S (n.d.) [Image] 10 Amazing Demin Outfits! Moderinta Life. Pinterest. https://www.pinterest.com.au/pin/1759287346046094/ 
+
+VIEW JEWELLERY
+
+Pinterest (n.d.) [Image] Pinterest. https://www.pinterest.com.au/pin/10555380366397179/
+Susan Sus
+
+VIDEO
+
+Cottonbro Studio (2020). [Video]. Pexels. https://www.pexels.com/video/women-wearing-sunglasses-6120785/ 
+
+PSCROLL CONTAINER
+
+Found it Digital (n.d.) [Image] Turning Outfits Into Looks. Pinterest https://www.pinterest.com.au/pin/847661961107419105/ 
+
+Keaton (n.d) [Image] Pinterest.
+https://www.pinterest.com.au/pin/5418462044278755/
+
+Kono, M (n.d.) [Image] Fall Outfit. Pinterest
+https://www.pinterest.com.au/pin/3870349672200099/
+
+Irina’s Moodboard (n.d.) [Image]. Happy Fit. Pinterest.
+https://www.pinterest.com.au/pin/442549100896551013/
+
+Ayo (n.d.) [Image]. Pinterest.
+https://www.pinterest.com.au/pin/2392606044141729/
+
+Louiehsw (n.d.) [Image] Masculine Masc Thanksgiving Holiday Christmas Outfit Fit Ideas Inspo. Pinterest
+https://www.pinterest.com.au/pin/1266706138099651/
+
+@masegojoy_m (n.d.) [Image]. Pinterest
+https://www.pinterest.com.au/pin/6122149485481279/
+
+Bradstreet, O (n.d.) [Image]. Vintage Western Fall Fashion. Pinterest.
+https://www.pinterest.com.au/pin/985231161893932/
